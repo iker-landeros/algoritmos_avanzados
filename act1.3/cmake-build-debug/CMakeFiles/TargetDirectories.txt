@@ -1,0 +1,3 @@
+C:/Users/yasmi/Documents/5to/tc2038/algoritmos_avanzados/act1.3/cmake-build-debug/CMakeFiles/act1_3.dir
+C:/Users/yasmi/Documents/5to/tc2038/algoritmos_avanzados/act1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yasmi/Documents/5to/tc2038/algoritmos_avanzados/act1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
